@@ -5,7 +5,7 @@ public class StudentManagementSystemSQL {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/student_db";
         String username = "root"; 
-        String password = "Mysql@123";    
+        String password = "YourPasscode";    
 
         Scanner sc = new Scanner(System.in);
 
@@ -112,3 +112,4 @@ public class StudentManagementSystemSQL {
         }
     }
 }
+
